@@ -72,3 +72,29 @@ Port 8080 by default.
 | POST   | /api/board-games     | Adds a new board game             |
 | PUT    | /api/board-games/:id | Updates a board game              |
 | DELETE | /api/board-games/:id | Deletes a board game              |
+
+```
+Unit4.Gamestore.Starter
+├─ .DS_Store
+├─ README.md
+├─ api
+│  ├─ boardGames.js
+│  ├─ index.js
+│  └─ videoGames.js
+├─ db
+│  ├─ boardGames.js
+│  ├─ client.js
+│  ├─ index.js
+│  ├─ seed.js
+│  ├─ seedData.js
+│  ├─ util.js
+│  └─ videoGames.js
+├─ index.js
+├─ package-lock.json
+├─ package.json
+└─ public
+   ├─ index.html
+   ├─ script.js
+   └─ styles.css
+
+```# Block32
